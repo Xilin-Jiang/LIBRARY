@@ -2,7 +2,7 @@
 Organising all the reusable code for future references.
 
 # Structure
-Relevant functions are organised into scripts. Each section within a script is organised as two part: functions and a simple example. 
+Relevant functions are organised into scripts. Each section within a script is organised as two part: functions and a simple example. To increase readability example, save all examples objects in the example_Robjects folder.  
 
 Each section of the scripts represent a small task, and should be started with a one-line header stating the task. 
 
